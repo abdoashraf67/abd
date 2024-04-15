@@ -21,3 +21,6 @@ def get_running_version(driver, host, username="admin", password="admin"):
     ) as device:
         version = device.send_command("show version", use_textfsm=True)
     return version
+
+
+print("this is fisrt app")
