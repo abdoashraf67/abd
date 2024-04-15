@@ -24,3 +24,5 @@ def get_running_version(driver, host, username="admin", password="admin"):
 
 
 print("this is fisrt app")
+print("this is fisrt app")
+print("abdo")
